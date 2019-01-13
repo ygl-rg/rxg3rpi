@@ -6,7 +6,7 @@ cfg_tbl = {
         "syslog": "/home/pi/rglog"
     },
 
-    "host": "esis.dyndns.ws",
+    "host": "esis.vip",
 
     "http_port": 8000,
 
